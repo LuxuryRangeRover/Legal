@@ -1,41 +1,40 @@
 # Terms of Service
 
-_Last updated: October 22, 2025_
+_Last updated: August 7, 2026_
 
-Welcome to **RoAnalytics**. By using this bot, you agree to the following terms:
+These Terms of Service apply to all applications, Discord bots, websites, and other services we operate, including but not limited to RoTrade, RoAnalytics, RoPrice, RoCreate, and RoVault (collectively, the "Services").
 
 ---
 
 ## 1. Purpose
-RoAnalytics provides users with data insights, graphs, and basic information about Roblox limited items.  
-This bot is not affiliated with, endorsed, or sponsored by Roblox Corporation.
+Our Services provide various tools, utilities, analytics, information, and other features depending on the application being used.
+Our Services are not affiliated with, endorsed by, or sponsored by Roblox Corporation, Discord Inc., or any other third party unless explicitly stated.
 
 ---
 
 ## 2. Acceptable Use
-- You may use RoAnalytics only for lawful purposes.  
-- You agree not to misuse, spam, or attempt to exploit the bot in any way.  
-- You must comply with the Roblox Terms of Service and Discord Terms of Service while using RoliAnalytics.
+- You may use our Services only for lawful purposes.  
+- You agree not to misuse, spam, or attempt to exploit our Services in any way.  
+- You must comply with the terms and policies of any third-party platforms used in conjunction with our Services, including but not limited to Discord and Roblox, where applicable.
 
 ---
 
 ## 3. No Financial Advice
-RoAnalytics provides information for **educational and entertainment purposes only**.  
-We do not guarantee the accuracy, reliability, or completeness of any data provided.  
+Any information, analytics, estimates, or recommendations provided through our Services are offered for informational, educational, or entertainment purposes only. We make no representations or warranties regarding their accuracy, reliability, or completeness.
 We are not responsible for any trading, financial, or gameplay decisions you make using the information.
 
 ---
 
 ## 4. Service Availability
-- RoAnalytics is provided “as is” and “as available.”  
+- Our Services are provided “as is” and “as available.”  
 - We do not guarantee uninterrupted access, uptime, or that all features will remain available.  
-- We may update, suspend, or discontinue the bot at any time without notice.
+- We may update, suspend, or discontinue our Services at any time without notice.
 
 ---
 
 ## 5. Limitation of Liability
-We are not liable for any damages, losses, or consequences arising from the use of RoAnalytics.  
-By using this bot, you agree to assume all risks associated with its use.
+We are not liable for any damages, losses, or consequences arising from the use of our Services.  
+By using our Services, you acknowledge and accept the risks associated with their use.
 
 ---
 
@@ -45,5 +44,6 @@ We may update these Terms of Service at any time. Updates will be reflected on t
 ---
 
 ## 7. Contact
-If you have questions about these Terms of Service, please contact:  
-**luxuryrangerover**
+If you have any questions about these Terms of Service, you can contact us at:
+- Discord: luxuryrangerover
+- Gmail: luxuryrangeroverr@gmail.com
